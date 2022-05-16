@@ -29,7 +29,7 @@
       },
       {
          "ID":57,
-         "RadioName":"- 0 N - Chillout on Radio",
+         "RadioName":"0 N - Chillout on Radio",
          "RadioURL":"https://0n-chillout.radionetz.de/0n-chillout.mp3;",
          "RadioDesc":"station from 0nradio in germany",
          "RadioShortDesc":null,
@@ -47,7 +47,7 @@
       },
       {
          "ID":62,
-         "RadioName":"* Meme dans les orties *",
+         "RadioName":"Meme dans les orties *",
          "RadioURL":"https://radio.sk8ter.org:8443/stream;",
          "RadioDesc":"Tek music mix playing station from france",
          "RadioShortDesc":null,
@@ -83,7 +83,7 @@
       },
       {
          "ID":69,
-         "RadioName":"- 0 N - Electro on Radio",
+         "RadioName":"0 N - Electro on Radio",
          "RadioURL":"https://0n-electro.radionetz.de/0n-electro.mp3",
          "RadioDesc":"Punjabi Bhangra 24X7 - The Musical Seduction Network",
          "RadioShortDesc":null,
@@ -92,7 +92,7 @@
       },   
       {
          "ID":73,
-         "RadioName":"	- 0 N - Evergreens on Radio",
+         "RadioName":"0 N - Evergreens on Radio",
          "RadioURL":"https://0n-evergreens.radionetz.de/0n-evergreens.mp3;",
          "RadioDesc":"old evergreen songs from germany",
          "RadioShortDesc":null,
