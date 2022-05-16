@@ -34,7 +34,7 @@
          "RadioDesc":"station from 0nradio in germany",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.0nradio.com/",
-         "RadioPic":"	https://www.0nradio.com/logos/0n-chillout_600x600.jpg"
+         "RadioPic":"https://www.0nradio.com/logos/0n-chillout_600x600.jpg"
       },
       {
          "ID":58,
@@ -65,7 +65,7 @@
       },
       {
          "ID":65,
-         "RadioName":"	PBB Radio",
+         "RadioName":"PBB Radio",
          "RadioURL":"http://pbbradio.com:8001/128",
          "RadioDesc":"music streaming station from France",
          "RadioShortDesc":null,
