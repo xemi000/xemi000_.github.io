@@ -7,7 +7,7 @@
          "RadioDesc":"The classic vinly is a newyork based station",
          "RadioShortDesc":null,
          "RadioWebsite":"https://walmradio.com/",
-         "RadioPic":"	https://walmradio.com:8443/WALM_record_512x512.png"
+         "RadioPic":"https://walmradio.com:8443/WALM_record_512x512.png"
       },
       {
          "ID":54,
