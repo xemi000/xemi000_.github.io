@@ -2,7 +2,7 @@
    "Data":[
       {
          "ID":53,
-         "RadioName":"	Classic Vinyl HD",
+         "RadioName":"Classic Vinyl HD",
          "RadioURL":"https://walmradio.com:8443/classic;",
          "RadioDesc":"The classic vinly is a newyork based station",
          "RadioShortDesc":null,
