@@ -3,7 +3,7 @@
       {
          "ID":53,
          "RadioName":"Classic Vinyl HD",
-         "RadioURL":"https://walmradio.com:8443/classic;",
+         "RadioURL":"https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3",
          "RadioDesc":"The classic vinly is a newyork based station",
          "RadioShortDesc":null,
          "RadioWebsite":"https://walmradio.com/",
@@ -12,7 +12,7 @@
       {
          "ID":54,
          "RadioName":"Adroit Jazz Underground",
-         "RadioURL":"https://walmradio.com:8443/jazz;",
+         "RadioURL":"https://walmradio.com:8443/jazz",
          "RadioDesc":"the jazz music station from adroit",
          "RadioShortDesc":null,
          "RadioWebsite":"https://walmradio.com/",
@@ -21,7 +21,7 @@
       {
          "ID":55,
          "RadioName":"Old Time Radio",
-         "RadioURL":"https://walmradio.com:8443/otr;",
+         "RadioURL":"https://walmradio.com:8443/otr",
          "RadioDesc":"old time music radio from wal radio.",
          "RadioShortDesc":null,
          "RadioWebsite":"https://walmradio.com/",
@@ -30,7 +30,7 @@
       {
          "ID":57,
          "RadioName":"0 N - Chillout on Radio",
-         "RadioURL":"https://0n-chillout.radionetz.de/0n-chillout.mp3;",
+         "RadioURL":"https://0n-chillout.radionetz.de/0n-chillout.mp3",
          "RadioDesc":"station from 0nradio in germany",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.0nradio.com/",
@@ -39,7 +39,7 @@
       {
          "ID":58,
          "RadioName":"dinamo.fm sleep",
-         "RadioURL":"http://channels.dinamo.fm/sleep-mp3;",
+         "RadioURL":"http://channels.dinamo.fm/sleep-mp3",
          "RadioDesc":"chillout from dinamo fm in Turkey ",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dinamo.fm/",
@@ -48,7 +48,7 @@
       {
          "ID":62,
          "RadioName":"Meme dans les orties *",
-         "RadioURL":"https://radio.sk8ter.org:8443/stream;",
+         "RadioURL":"https://radio.sk8ter.org:8443/stream",
          "RadioDesc":"Tek music mix playing station from france",
          "RadioShortDesc":null,
          "RadioWebsite":"http://memeradio.org/",
@@ -93,7 +93,7 @@
       {
          "ID":73,
          "RadioName":"0 N - Evergreens on Radio",
-         "RadioURL":"https://0n-evergreens.radionetz.de/0n-evergreens.mp3;",
+         "RadioURL":"https://0n-evergreens.radionetz.de/0n-evergreens.mp3",
          "RadioDesc":"old evergreen songs from germany",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.0nradio.com/",
@@ -128,21 +128,21 @@
       },
       {
          "ID":117,
-         "RadioName":"BHANGRA ROADSHOW",
+         "RadioName":"Bhangra roadshow",
          "RadioURL":"https://desi.canstream.co.uk:8001/live.mp3",
          "RadioDesc":"Desi plays the best in Bhangra",
          "RadioShortDesc":null,
          "RadioWebsite":"https://www.desiradio.org.uk",
-         "RadioPic":"url.com/RadioPics/117.png?dt=2515202008:15:14"
+         "RadioPic":"https://www.mowaxplease.com/wp-content/themes/mowaxplease_2016/img/icon.png"
       },
       {
          "ID":120,
-         "RadioName":"Non Stop Punjabi Radio",
-         "RadioURL":"https://74.50.122.103:7020/;",
+         "RadioName":"Non stop punjabi radio",
+         "RadioURL":"https://74.50.122.103:7020/",
          "RadioDesc":"24x7 Non Stop Punjabi Music Radio Station",
          "RadioShortDesc":null,
          "RadioWebsite":"https://www.nonstoppunjabi.com/",
-         "RadioPic":"url.com/RadioPics/120.png?dt=2515202008:15:14"
+         "RadioPic":"https://coldstar.online/static/assets/firefox_app_512x512.png"
       }     
    ],
    "Message":"72",
